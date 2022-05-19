@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/johnwang/workspace/CLearning
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/johnwang/workspace/CLearning -B /Users/johnwang/workspace/CLearning/cmake-build-debug
 -- The C compiler identification is AppleClang 13.1.6.13160021
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
